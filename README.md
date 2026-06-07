@@ -8,7 +8,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| `革命中的中国：第一阶段，1900—1913（英文原书）.pdf` | 英文原书（扫描 PDF，519 页；Wright 编，Yale UP 1968） |
+| `China in Revolution - The First Phase 1900-1913 (Wright, Yale UP 1968).pdf` | 英文原书（扫描 PDF，519 页；Wright 编，Yale UP 1968） |
 | `革命中的中国：第一阶段，1900—1913（中文译本）.md` | 中文全译本（Markdown） |
 
 ## 译本范围

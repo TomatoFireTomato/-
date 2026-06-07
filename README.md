@@ -1,6 +1,8 @@
-# China in Revolution: The First Phase, 1900–1913 — 原文与中文译本
+# 革命中的中国：第一阶段，1900—1913
 
-本仓库收录学术专著 **《China in Revolution: The First Phase 1900–1913》**（Mary C. Wright 编，耶鲁大学出版社，1968）的英文原书 PDF，以及一份逐章译出的**学术严谨中文译本**。
+**China in Revolution: The First Phase, 1900–1913** — 英文原书与中文译本
+
+本仓库收录学术专著 **《革命中的中国：第一阶段，1900—1913》**（*China in Revolution: The First Phase 1900–1913*，Mary C. Wright 编，耶鲁大学出版社，1968）的英文原书 PDF，以及一份逐章译出的**学术严谨中文译本**。
 
 ## 文件
 
